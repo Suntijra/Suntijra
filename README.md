@@ -2,14 +2,35 @@
 
 ## 👨‍💻 About Me
 - 🌱 Currently learning: TypeScript, NestJS, FastAPI, AI Agents, LLM  
-- 💬 Open to talk about: Web Development, Mobile Development, Trading, Crypto , Artificial Intelligence  
-- 📫 Reach me at: sunti.porkhamchan@gmail.com  
+- 💬 Open to talk about: Web Development, Mobile Development, Trading, Crypto, Artificial Intelligence  
+- 📫 Reach me at: **sunti.porkhamchan@gmail.com**  
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, TypeScript ,JavaScript
-- **Frameworks:** FastAPI,Flask React, React-Native, NestJS, VueJS, NuxtJS
-- **Tools:** Docker, GitHub Actions, k6
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suntijra&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suntijra&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suntijra&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suntijra&layout=compact&theme=tokyonight)  
