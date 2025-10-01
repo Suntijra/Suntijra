@@ -2,12 +2,12 @@
 
 ## 👨‍💻 About Me
 - 🌱 Currently learning: TypeScript, NestJS, FastAPI, AI Agents, LLM  
-- 💬 Open to talk about: Web Development, Trading, Artificial Intelligence  
+- 💬 Open to talk about: Web Development, Mobile Development, Trading, Crypto , Artificial Intelligence  
 - 📫 Reach me at: sunti.porkhamchan@gmail.com  
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, TypeScript ,JavaScript
-- **Frameworks:** FastAPI, React, NestJS , Vue , NuxtJS  
+- **Frameworks:** FastAPI,Flask React, React-Native, NestJS, VueJS, NuxtJS
 - **Tools:** Docker, GitHub Actions, k6
 
 ## 📊 GitHub Stats
