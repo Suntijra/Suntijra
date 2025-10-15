@@ -45,6 +45,5 @@
 ---
 
 ## 📊 GitHub Stats
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Suntijra&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suntijra&layout=compact&theme=tokyonight)  
 
